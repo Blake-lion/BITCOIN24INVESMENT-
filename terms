@@ -1,0 +1,216 @@
+<!doctype html>
+<html lang="en">
+ <head> 
+  <meta charset="utf-8"> 
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"> 
+  <!-- CSRF Token --> 
+  <meta name="csrf-token" content="LtUraM2JKmlL5r2nc0Bae6h314XQ97Gh24KCkXCG"> 
+  <title>Capital Multiply - Terms And condition</title> 
+  <meta content="" name="description"> 
+  <meta content="" name="keywords"> 
+  <!-- Favicons --> 
+  <link href="/assets/img/favicon.png" rel="icon"> 
+  <!-- Google Fonts --> 
+  <link rel="preconnect" href="https://fonts.googleapis.com"> 
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&amp;display=swap" rel="stylesheet"> 
+  <!-- Vendor CSS Files --> 
+  <link href="/assets/vendor/bootstrap.min.css" rel="stylesheet"> 
+  <link href="/assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet"> 
+  <!-- Template Main CSS File --> 
+  <link href="/assets/css/main.css" rel="stylesheet"> 
+ </head> 
+ <body class=""> 
+  <div id="page"> 
+   <div class="g_translate" style="background: #e7eaf7;padding: 2px;"> 
+    <div class="container" style="display: flex;justify-content: space-between;align-items: center"> 
+     <div id="google_translate_element" style="margin-right: 32px"></div> 
+     <p style="font-size: 0.85rem;margin: 0;">Open Monday to Friday (8am-5pm)</p> 
+    </div> 
+   </div> 
+   <!-- Header -------> 
+   <header id="header" class=" page-header "> 
+    <!-- Nav Bar --> 
+    <nav class="navbar navbar-expand-lg"> 
+     <div class="container"> 
+      <a class="logo" href="/"> <img src="/assets/img/logo.png" alt="Logo"> </a> 
+      <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#site-navbar" aria-controls="site-navbar" aria-expanded="false" aria-label="Toggle navigation"> <i class="bi bi-list"></i> </button> 
+      <div class="navbar-collapse collapse" id="site-navbar"> 
+       <ul class="navbar-nav ms-auto mb-2 mb-lg-0 align-items-center"> 
+        <li class="nav-item "> <a class="nav-link" aria-current="page" href="/">Home</a> </li> 
+        <li class="nav-item dropdown "> <a class="nav-link dropdown-toggle" href="#" id="dropdownCompany" data-bs-toggle="dropdown">Company</a> 
+         <ul class="dropdown-menu" aria-labelledby="dropdownCompany"> 
+          <li><a class="dropdown-item" href="/about">About us</a></li> 
+          <li> <a class="dropdown-item" href="/about/#services">Services</a> </li> 
+          <li> <a class="dropdown-item" href="/referral-program">Referral Program</a> </li> 
+         </ul> </li> 
+        <li class="nav-item "> <a class="nav-link" href="/investment">Investment</a> </li> 
+        <li class="nav-item "> <a class="nav-link" href="/faq">FAQ</a> </li> 
+        <li class="nav-item "> <a class="nav-link" href="/contact">Contact</a> </li> 
+       </ul> 
+       <div class="nav-buttons"> 
+        <a href="/login" class="btn btn-outline-primary">Log In</a> 
+        <a href="/register" class="btn btn-primary sign-up">Sign Up</a> 
+       </div> 
+      </div> 
+     </div> 
+    </nav> 
+    <div class="page-cover"> 
+     <h2 class="page-title h1">Terms And condition</h2> 
+    </div> 
+   </header> 
+   <main> 
+    <!-- Section -------> 
+    <section id="terms" class="terms"> 
+     <div class="container"> 
+      <p> </p>
+      <p>1. <b>Introduction</b></p> 
+      <p>Welcome to <b>Capital Multiply</b> (“Company”, “we”, “our”, “us”)!</p> 
+      <p> These Terms of Service (“Terms”, “Terms of Service”) govern your use of our website located at <b>capitalmultiply.com</b> (together or individually “Service”) operated by <b>Capital Multiply</b>. </p> 
+      <p> Our Privacy Policy also governs your use of our Service and explains how we collect, safeguard and disclose information that results from your use of our web pages. </p> 
+      <p> Your agreement with us includes these Terms and our Privacy Policy (“Agreements”). You acknowledge that you have read and understood Agreements, and agree to be bound of them. </p> 
+      <p> If you do not agree with (or cannot comply with) Agreements, then you may not use the Service, but please let us know by emailing at <b>contact@capitalmultiply.com</b> so we can try to find a solution. These Terms apply to all visitors, users and others who wish to access or use Service. </p> 
+      <p>2. <b>Communications</b></p> 
+      <p> By using our Service, you agree to receive emails from us. </p> 
+      <p>3. <b>Promotions</b></p> 
+      <p> Any promotions made available through Service may be governed by rules that are separate from these Terms of Service. If you participate in any Promotions, please review the applicable rules as well as our Privacy Policy. If the rules for a Promotion conflict with these Terms of Service, Promotion rules will apply. </p> 
+      <p>4. <b>Content</b></p> 
+      <p> Content found on or through this Service are the property of Capital Multiply or used with permission. You may not distribute, modify, transmit, reuse, download, repost, copy, or use said Content, whether in whole or in part, for commercial purposes or for personal gain, without express advance written permission from us. </p> 
+      <p>5. <b>Prohibited Uses</b></p> 
+      <p> 0.1. Attempt to gain unauthorized access to, interfere with, damage, or disrupt any parts of Service, the server on which Service is stored, or any server, computer, or database connected to Service. </p> 
+      <p>0.2. Take any action that may damage or falsify Company rating.</p> 
+      <p>0.3. Otherwise attempt to interfere with the proper working of Service.</p> 
+      <p>6. <b>Analytics</b></p> 
+      <p> We may use third-party Service Providers to monitor and analyze the use of our Service. </p> 
+      <p>7. <b>No Use By Minors</b></p> 
+      <p> Service is intended only for access and use by individuals at least eighteen (18) years old. By accessing or using Service, you warrant and represent that you are at least eighteen (18) years of age and with the full authority, right, and capacity to enter into this agreement and abide by all of the terms and conditions of Terms. If you are not at least eighteen (18) years old, you are prohibited from both the access and usage of Service. </p> 
+      <p>8. <b>Accounts</b></p> 
+      <p> When you create an account with us, you guarantee that you are above the age of 18, and that the information you provide us is accurate, complete, and current at all times. Inaccurate, incomplete, or obsolete information may result in the immediate termination of your account on Service. </p> 
+      <p> You are responsible for maintaining the confidentiality of your account and password, including but not limited to the restriction of access to your computer and/or account. You agree to accept responsibility for any and all activities or actions that occur under your account and/or password, whether your password is with our Service or a third-party service. You must notify us immediately upon becoming aware of any breach of security or unauthorized use of your account. </p> 
+      <p> You may not use as a username the name of another person or entity or that is not lawfully available for use, a name or trademark that is subject to any rights of another person or entity other than you, without appropriate authorization. You may not use as a username any name that is offensive, vulgar or obscene. </p> 
+      <p> We reserve the right to refuse service, terminate accounts, remove or edit content, or cancel orders in our sole discretion. </p> 
+      <p>9. <b>Intellectual Property</b></p> 
+      <p> Service and its original content (excluding Content provided by users), features and functionality are and will remain the exclusive property of Capital Multiply and its licensors. Service is protected by copyright, trademark, and other laws of and foreign countries. Our trademarks may not be used in connection with any product or service without the prior written consent of Capital Multiply. </p> 
+      <p>10. <b>Copyright Policy</b></p> 
+      <p> We respect the intellectual property rights of others. It is our policy to respond to any claim that Content posted on Service infringes on the copyright or other intellectual property rights (“Infringement”) of any person or entity. </p> 
+      <p> If you are a copyright owner, or authorized on behalf of one, and you believe that the copyrighted work has been copied in a way that constitutes copyright infringement, please submit your claim via email to contact@capitalmultiply.com, with the subject line: “Copyright Infringement” and include in your claim a detailed description of the alleged Infringement as detailed below, under “DMCA Notice and Procedure for Copyright Infringement Claims” </p> 
+      <p> You may be held accountable for damages (including costs and attorneys’ fees) for misrepresentation or bad-faith claims on the infringement of any Content found on and/or through Service on your copyright. </p> 
+      <p>11. <b>DMCA Notice and Procedure for Copyright Infringement Claims</b></p> 
+      <p> You may submit a notification pursuant to the Digital Millennium Copyright Act (DMCA) by providing our Copyright Agent with the following information in writing (see 17 U.S.C 512(c)(3) for further detail): </p> 
+      <p> 0.1. an electronic or physical signature of the person authorized to act on behalf of the owner of the copyright’s interest; </p> 
+      <p> 0.2. a description of the copyrighted work that you claim has been infringed, including the URL (i.e., web page address) of the location where the copyrighted work exists or a copy of the copyrighted work; </p> 
+      <p> 0.3. identification of the URL or other specific location on Service where the material that you claim is infringing is located; </p> 
+      <p>0.4. your address, telephone number, and email address;</p> 
+      <p> 0.5. a statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law; </p> 
+      <p> 0.6. a statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner’s behalf. </p> 
+      <p> You can contact our Copyright Agent via email at contact@capitalmultiply.com. </p> 
+      <p>12. <b>Error Reporting and Feedback</b></p> 
+      <p> You may provide us either directly at contact@capitalmultiply.com or via third party sites and tools with information and feedback concerning errors, suggestions for improvements, ideas, problems, complaints, and other matters related to our Service (“Feedback”). You acknowledge and agree that: (i) you shall not retain, acquire or assert any intellectual property right or other right, title or interest in or to the Feedback; (ii) Company may have development ideas similar to the Feedback; (iii) Feedback does not contain confidential information or proprietary information from you or any third party; and (iv) Company is not under any obligation of confidentiality with respect to the Feedback. In the event the transfer of the ownership to the Feedback is not possible due to applicable mandatory laws, you grant Company and its affiliates an exclusive, transferable, irrevocable, free-of-charge, sub-licensable, unlimited and perpetual right to use (including copy, modify, create derivative works, publish, distribute and commercialize) Feedback in any manner and for any purpose. </p> 
+      <p>13. <b>Links To Other Web Sites</b></p> 
+      <p> Our Service may contain links to third party web sites or services that are not owned or controlled by Capital Multiply. </p> 
+      <p> Capital Multiply has no control over, and assumes no responsibility for the content, privacy policies, or practices of any third party web sites or services. We do not warrant the offerings of any of these entities/individuals or their websites. </p> 
+      <p>14. <b>Disclaimer Of Warranty</b></p> 
+      <p> THESE SERVICES ARE PROVIDED BY COMPANY ON AN “AS IS” AND “AS AVAILABLE” BASIS. COMPANY MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, AS TO THE OPERATION OF THEIR SERVICES, OR THE INFORMATION, CONTENT OR MATERIALS INCLUDED THEREIN. YOU EXPRESSLY AGREE THAT YOUR USE OF THESE SERVICES, THEIR CONTENT, AND ANY SERVICES OR ITEMS OBTAINED FROM US IS AT YOUR SOLE RISK. </p> 
+      <p> NEITHER COMPANY NOR ANY PERSON ASSOCIATED WITH COMPANY MAKES ANY WARRANTY OR REPRESENTATION WITH RESPECT TO THE COMPLETENESS, SECURITY, RELIABILITY, QUALITY, ACCURACY, OR AVAILABILITY OF THE SERVICES. WITHOUT LIMITING THE FOREGOING, NEITHER COMPANY NOR ANYONE ASSOCIATED WITH COMPANY REPRESENTS OR WARRANTS THAT THE SERVICES, THEIR CONTENT, OR ANY SERVICES OR ITEMS OBTAINED THROUGH THE SERVICES WILL BE ACCURATE, RELIABLE, ERROR-FREE, OR UNINTERRUPTED, THAT DEFECTS WILL BE CORRECTED, THAT THE SERVICES OR THE SERVER THAT MAKES IT AVAILABLE ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS OR THAT THE SERVICES OR ANY SERVICES OR ITEMS OBTAINED THROUGH THE SERVICES WILL OTHERWISE MEET YOUR NEEDS OR EXPECTATIONS. </p> 
+      <p> COMPANY HEREBY DISCLAIMS ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, NON-INFRINGEMENT, AND FITNESS FOR PARTICULAR PURPOSE. </p> 
+      <p> THE FOREGOING DOES NOT AFFECT ANY WARRANTIES WHICH CANNOT BE EXCLUDED OR LIMITED UNDER APPLICABLE LAW. </p> 
+      <p>15. <b>Limitation Of Liability</b></p> 
+      <p> EXCEPT AS PROHIBITED BY LAW, YOU WILL HOLD US AND OUR OFFICERS, DIRECTORS, EMPLOYEES, AND AGENTS HARMLESS FOR ANY INDIRECT, PUNITIVE, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGE, HOWEVER IT ARISES (INCLUDING ATTORNEYS’ FEES AND ALL RELATED COSTS AND EXPENSES OF LITIGATION AND ARBITRATION, OR AT TRIAL OR ON APPEAL, IF ANY, WHETHER OR NOT LITIGATION OR ARBITRATION IS INSTITUTED), WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE, OR OTHER TORTIOUS ACTION, OR ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT, INCLUDING WITHOUT LIMITATION ANY CLAIM FOR PERSONAL INJURY OR PROPERTY DAMAGE, ARISING FROM THIS AGREEMENT AND ANY VIOLATION BY YOU OF ANY FEDERAL, STATE, OR LOCAL LAWS, STATUTES, RULES, OR REGULATIONS, EVEN IF COMPANY HAS BEEN PREVIOUSLY ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. EXCEPT AS PROHIBITED BY LAW, IF THERE IS LIABILITY FOUND ON THE PART OF COMPANY, IT WILL BE LIMITED TO THE AMOUNT PAID FOR THE PRODUCTS AND/OR SERVICES, AND UNDER NO CIRCUMSTANCES WILL THERE BE CONSEQUENTIAL OR PUNITIVE DAMAGES. SOME STATES DO NOT ALLOW THE EXCLUSION OR LIMITATION OF PUNITIVE, INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE PRIOR LIMITATION OR EXCLUSION MAY NOT APPLY TO YOU. </p> 
+      <p>16. <b>Termination</b></p> 
+      <p> We may terminate or suspend your account and bar access to Service immediately, without prior notice or liability, under our sole discretion, for any reason whatsoever and without limitation, including but not limited to a breach of Terms. </p> 
+      <p> If you wish to terminate your account, you may simply discontinue using Service. </p> 
+      <p> All provisions of Terms which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity and limitations of liability. </p> 
+      <p>17. <b>Governing Law</b></p> 
+      <p> These Terms shall be governed and construed in accordance with the laws of United States, which governing law applies to agreement without regard to its conflict of law provisions. </p> 
+      <p> Our failure to enforce any right or provision of these Terms will not be considered a waiver of those rights. If any provision of these Terms is held to be invalid or unenforceable by a court, the remaining provisions of these Terms will remain in effect. These Terms constitute the entire agreement between us regarding our Service and supersede and replace any prior agreements we might have had between us regarding Service. </p> 
+      <p>18. <b>Changes To Service</b></p> 
+      <p> We reserve the right to withdraw or amend our Service, and any service or material we provide via Service, in our sole discretion without notice. We will not be liable if for any reason all or any part of Service is unavailable at any time or for any period. From time to time, we may restrict access to some parts of Service, or the entire Service, to users, including registered users. </p> 
+      <p>19. <b>Amendments To Terms</b></p> 
+      <p> We may amend Terms at any time by posting the amended terms on this site. It is your responsibility to review these Terms periodically. </p> 
+      <p> Your continued use of the Platform following the posting of revised Terms means that you accept and agree to the changes. You are expected to check this page frequently so you are aware of any changes, as they are binding on you. </p> 
+      <p> By continuing to access or use our Service after any revisions become effective, you agree to be bound by the revised terms. If you do not agree to the new terms, you are no longer authorized to use Service. </p> 
+      <p>20. <b>Waiver And Severability</b></p> 
+      <p> No waiver by Company of any term or condition set forth in Terms shall be deemed a further or continuing waiver of such term or condition or a waiver of any other term or condition, and any failure of Company to assert a right or provision under Terms shall not constitute a waiver of such right or provision. </p> 
+      <p> If any provision of Terms is held by a court or other tribunal of competent jurisdiction to be invalid, illegal or unenforceable for any reason, such provision shall be eliminated or limited to the minimum extent such that the remaining provisions of Terms will continue in full force and effect. </p> 
+      <p>21. <b>Acknowledgement</b></p> 
+      <p> BY USING SERVICE OR OTHER SERVICES PROVIDED BY US, YOU ACKNOWLEDGE THAT YOU HAVE READ THESE TERMS OF SERVICE AND AGREE TO BE BOUND BY THEM. </p> 
+      <p>22. <b>Contact Us</b></p> 
+      <p> Please send your feedback, comments, requests for technical support by email: <b>contact@capitalmultiply.com</b>. </p> 
+     </div> 
+    </section> 
+    <!-- End Section --> 
+   </main> 
+   <!-- Footer -------> 
+   <footer id="footer" class="site-footer"> 
+    <div class="footer-top"> 
+     <div class="container"> 
+      <div class="row"> 
+       <div class="col-lg-3 col-md-6 footer-contact"> 
+        <h3><img src="./assets/img/logo.png" alt="Logo"></h3> 
+        <p> Our mission is to provide investors an opportunity to securely grow their investment portfolio in a safe environment. </p> 
+       </div> 
+       <div class="col-lg-3 col-md-6 footer-links"> 
+        <h4>Company</h4> 
+        <ul> 
+         <li> <i class="bi bi-chevron-right"></i> <a href="/">Home</a> </li> 
+         <li> <i class="bi bi-chevron-right"></i> <a href="/about">About us</a> </li> 
+         <li> <i class="bi bi-chevron-right"></i> <a href="/about/#services">Services</a> </li> 
+         <li> <i class="bi bi-chevron-right"></i> <a href="/contact">Contact Us</a> </li> 
+         <li> <i class="bi bi-chevron-right"></i> <a href="/terms">Terms and condition</a> </li> 
+        </ul> 
+       </div> 
+       <div class="col-lg-3 col-md-6 footer-links"> 
+        <h4>Account</h4> 
+        <ul> 
+         <li> <i class="bi bi-chevron-right"></i> <a href="/login">Log in</a> </li> 
+         <li> <i class="bi bi-chevron-right"></i> <a href="/dashboard">Dashboard</a> </li> 
+         <li> <i class="bi bi-chevron-right"></i> <a href="/dashboard/profile">Account</a> </li> 
+         <li> <i class="bi bi-chevron-right"></i> <a href="/dashboard/referral-program">Affiliate</a> </li> 
+         <li> <i class="bi bi-chevron-right"></i> <a href="/password/reset">Forgot Password</a> </li> 
+        </ul> 
+       </div> 
+       <div class="col-lg-3 col-md-6 footer-contact-us"> 
+        <h4>Contact Us</h4> 
+        <p> 521 5th Ave 15th Floor,<br> New York, NY 10175,<br> United States <br><br> <strong>WhatsApp:</strong> +1226-737-2109<br> <strong>Email:</strong> info@capitalmultiply.com<br> </p> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="container"> 
+     <div class="copyright-wrap py-4"> 
+      <div class="copyright text-center">
+        © 2018 - 2022 
+       <b>Capital Multiply</b>. All Rights Reserved 
+      </div> 
+     </div> 
+    </div> 
+   </footer> 
+  </div> 
+  <!-- Vendor JS Files --> 
+  <script src="/assets/vendor/bootstrap.min.js"></script> 
+  <!-- Google Translate --> 
+  <script type="text/javascript">
+        function googleTranslateElementInit() { 
+            new google.translate.TranslateElement(
+                {pageLanguage: 'en'}, 
+                'google_translate_element'
+            ); 
+        } 
+    </script> 
+  <script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit">
+    </script> 
+  <!-- Smartsupp Live Chat script --> 
+  <script type="text/javascript">
+        var _smartsupp = _smartsupp || {};
+    _smartsupp.key = 'b8dc7a4004a221d6889da5275dc2991f3b5a3bd1';
+    window.smartsupp||(function(d) {
+      var s,c,o=smartsupp=function(){ o._.push(arguments)};o._=[];
+      s=d.getElementsByTagName('script')[0];c=d.createElement('script');
+      c.type='text/javascript';c.charset='utf-8';c.async=true;
+      c.src='https://www.smartsuppchat.com/loader.js?';s.parentNode.insertBefore(c,s);
+    })(document);
+    </script> 
+  <!-- Template Main JS File --> 
+  <script src="/assets/js/main.js"></script>  
+ </body>
+</html>

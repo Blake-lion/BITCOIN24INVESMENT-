@@ -1,0 +1,241 @@
+<!doctype html>
+<html lang="en">
+ <head> 
+  <meta charset="utf-8"> 
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"> 
+  <!-- CSRF Token --> 
+  <meta name="csrf-token" content="Tvx0TJnVbglc47gZdyW1XI9gZZhGLL86tdXxqncm"> 
+  <title>Capital Multiply - About Us</title> 
+  <meta content="" name="description"> 
+  <meta content="" name="keywords"> 
+  <!-- Favicons --> 
+  <link href="/assets/img/favicon.png" rel="icon"> 
+  <!-- Google Fonts --> 
+  <link rel="preconnect" href="https://fonts.googleapis.com"> 
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&amp;display=swap" rel="stylesheet"> 
+  <!-- Vendor CSS Files --> 
+  <link href="/assets/vendor/bootstrap.min.css" rel="stylesheet"> 
+  <link href="/assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet"> 
+  <!-- Template Main CSS File --> 
+  <link href="/assets/css/main.css" rel="stylesheet"> 
+ </head> 
+ <body class="about-us"> 
+  <div id="page"> 
+   <div class="g_translate" style="background: #e7eaf7;padding: 2px;"> 
+    <div class="container" style="display: flex;justify-content: space-between;align-items: center"> 
+     <div id="google_translate_element" style="margin-right: 32px"></div> 
+     <p style="font-size: 0.85rem;margin: 0;">Open Monday to Friday (8am-5pm)</p> 
+    </div> 
+   </div> 
+   <!-- Header -------> 
+   <header id="header" class=" page-header "> 
+    <!-- Nav Bar --> 
+    <nav class="navbar navbar-expand-lg"> 
+     <div class="container"> 
+      <a class="logo" href="/"> <img src="/assets/img/logo.png" alt="Logo"> </a> 
+      <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#site-navbar" aria-controls="site-navbar" aria-expanded="false" aria-label="Toggle navigation"> <i class="bi bi-list"></i> </button> 
+      <div class="navbar-collapse collapse" id="site-navbar"> 
+       <ul class="navbar-nav ms-auto mb-2 mb-lg-0 align-items-center"> 
+        <li class="nav-item "> <a class="nav-link" aria-current="page" href="/">Home</a> </li> 
+        <li class="nav-item dropdown active "> <a class="nav-link dropdown-toggle" href="#" id="dropdownCompany" data-bs-toggle="dropdown">Company</a> 
+         <ul class="dropdown-menu" aria-labelledby="dropdownCompany"> 
+          <li><a class="dropdown-item" href="/about">About us</a></li> 
+          <li> <a class="dropdown-item" href="/about/#services">Services</a> </li> 
+          <li> <a class="dropdown-item" href="/referral-program">Referral Program</a> </li> 
+         </ul> </li> 
+        <li class="nav-item "> <a class="nav-link" href="/investment">Investment</a> </li> 
+        <li class="nav-item "> <a class="nav-link" href="/faq">FAQ</a> </li> 
+        <li class="nav-item "> <a class="nav-link" href="/contact">Contact</a> </li> 
+       </ul> 
+       <div class="nav-buttons"> 
+        <a href="/login" class="btn btn-outline-primary">Log In</a> 
+        <a href="/register" class="btn btn-primary sign-up">Sign Up</a> 
+       </div> 
+      </div> 
+     </div> 
+    </nav> 
+    <div class="page-cover"> 
+     <h2 class="page-title h1">About Us</h2> 
+    </div> 
+   </header> 
+   <main> 
+    <!-- About Section -------> 
+    <section id="about" class="about"> 
+     <div class="container"> 
+      <div class="content row mb-5 flex-column-reverse flex-lg-row"> 
+       <div class="about_text col-lg-6 pe-lg-5"> 
+        <div class="section_title"> 
+         <h2 class="section_heading text-start">Investing has never been easier</h2> 
+        </div> 
+        <div class="about_info"> 
+         <p> Capital Multiply is a professional investment company engaged in real estate,agriculture, mining, crypto/forex trading and gold trading. Our goal at Capital Multiply is to provide investors opportunities to generate income with our experience and knowledge, whether you have limited or no experience in real estate, crypto/forex or gold trading. Our team is committed to delivering a simple, easy-to-use system for investing in the thriving industry. <br> <br> Our mission is to provide investors an opportunity to securely grow their investment portfolio in a safe environment. We take great pride in maintaining a secure, profitable environment where investors can grow their investment with minimal fuss, low risk and optimal convenience. We employ a team of cryptocurrency and foreign trade market experienced, proven investment professionals, who have decades of experience and have earned millions of dollars in the investment sectors. <br> </p> 
+        </div> 
+       </div> 
+       <div class="about_image col-lg-6 mb-5 mb-lg-0 ps-lg-5"> 
+        <img src="./assets/img/about-us-image.jpg" alt="about_company"> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="container"></div> 
+    </section> 
+    <!-- End Services Section --> 
+    <!-- Services Section -------> 
+    <section id="about-certificate" class="about-certificate"> 
+     <div class="container"> 
+      <div class="content row mb-5 flex-lg-row"> 
+       <div class="about_text col-lg-6 pe-lg-5"> 
+        <div class="section_title"> 
+         <h2 class="section_heading text-start">Official registration</h2> 
+        </div> 
+        <div class="about_info"> 
+         <p class="section-text">Capital Multiply Limited is a U.S based registered investment company.</p> 
+         <p class="section-text">Many years of successful trading activity found its logical confirmation in a legally registered company Capital Multiply. Our office is located in New York. But you can conduct investment activity from anywhere in the world through our website.</p> 
+        </div> 
+       </div> 
+       <div class="about_image col-lg-6 ps-lg-5"> 
+        <a href="/assets/img/certificate.jpg" class="pt-5" target="_blank"> <img style="max-width: 220px;margin: auto;display: block;" src="/assets/img/certificate.jpg" alt="certificate"> </a> 
+       </div> 
+      </div> 
+     </div> 
+    </section> 
+    <!-- End Services Section --> 
+    <!-- Section -------> 
+    <section id="services" class="services"> 
+     <div class="container"> 
+      <div class="section_title"> 
+       <h2 class="section_heading">Our Services</h2> 
+       <p> We cover several profitable and relevant business lines of various profitability. </p> 
+      </div> 
+      <div class="content"> 
+       <div class="row"> 
+        <div class="col-lg-4 col-md-6 mb-4"> 
+         <div class="card"> 
+          <img src="./assets/img/services/real-estates.jpg" alt=""> 
+          <div class="card-body"> 
+           <h5 class="card-title">Real Estate</h5> 
+           <p class="card-text">Real estate is a capital intensive and is highly cash flow dependent. If these factors are not well understood and managed by the investor, it becomes a risky investment. This is why investing with us is the best option, we make real estate investment cost effective and every risk involved is also curtailed leaving you with guaranteed profits.</p> 
+           <a href="#" class="btn p-0">Get started <i class="bi bi-arrow-right"></i></a> 
+          </div> 
+         </div> 
+        </div> 
+        <div class="col-lg-4 col-md-6 mb-4"> 
+         <div class="card"> 
+          <img src="./assets/img/services/farming.jpg" alt=""> 
+          <div class="card-body"> 
+           <h5 class="card-title">Agriculture</h5> 
+           <p class="card-text">Agriculture is a low-risk investment that increases in value over the long-term, it is a tangible asset that provides benefit to the community, and it can diversify a portfolio. Investors can make money from cash flow from crops that are harvested. Investing in agriculture may not provide immediate returns, but over the long-term, it can pay off greatly. </p> 
+           <a href="#" class="btn p-0">Get started <i class="bi bi-arrow-right"></i></a> 
+          </div> 
+         </div> 
+        </div> 
+        <div class="col-lg-4 col-md-6 mb-4"> 
+         <div class="card"> 
+          <img src="./assets/img/services/mining.jpg" alt=""> 
+          <div class="card-body"> 
+           <h5 class="card-title">Mining</h5> 
+           <p class="card-text">Investment funds are suited for Crypto mining. By merging our investors funds, We are able to buy into large crypto mining pools with high hash rates. <br> That way we can grant our investors access to this low risk investment method and strengthen our investment portfolio as a whole, as well as help the Bitcoin industry.</p> 
+           <a href="#" class="btn p-0">Get started <i class="bi bi-arrow-right"></i></a> 
+          </div> 
+         </div> 
+        </div> 
+        <div class="col-lg-6 col-md-6 mb-4"> 
+         <div class="card"> 
+          <img src="./assets/img/services/gold.jpg" alt=""> 
+          <div class="card-body"> 
+           <h5 class="card-title">Gold</h5> 
+           <p class="card-text">Out of all the precious metals, gold is the most popular as an investment. Investors generally buy gold as a way of diversifying risk, especially through the use of futures contracts and derivatives. The gold market is subject to speculation and volatility as are other markets. Compared to other precious metals used for investment, gold has been the most effective safe haven across a number of countries.</p> 
+           <a href="#" class="btn p-0">Get started <i class="bi bi-arrow-right"></i></a> 
+          </div> 
+         </div> 
+        </div> 
+        <div class="col-lg-6 col-md-6 mb-4"> 
+         <div class="card"> 
+          <img src="./assets/img/services/trading.jpg" alt=""> 
+          <div class="card-body"> 
+           <h5 class="card-title">Crypto/ Forex trading</h5> 
+           <p class="card-text">Crypto &amp; Forex trading is considered as one of the largest and most liquid markets in the world. The dollar amount of daily transactions in the Forex market is around USD 5 trillion and $1.5 trillion of this amount comes from spot trading. This volatility can be difficult because of the limited decision time, that is why dedicated investor teams tend to be more successful than “side traders”. </p> 
+           <a href="#" class="btn p-0">Get started <i class="bi bi-arrow-right"></i></a> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </section> 
+    <!-- End Services Section --> 
+   </main> 
+   <!-- Footer -------> 
+   <footer id="footer" class="site-footer"> 
+    <div class="footer-top"> 
+     <div class="container"> 
+      <div class="row"> 
+       <div class="col-lg-3 col-md-6 footer-contact"> 
+        <h3><img src="./assets/img/logo.png" alt="Logo"></h3> 
+        <p> Our mission is to provide investors an opportunity to securely grow their investment portfolio in a safe environment. </p> 
+       </div> 
+       <div class="col-lg-3 col-md-6 footer-links"> 
+        <h4>Company</h4> 
+        <ul> 
+         <li> <i class="bi bi-chevron-right"></i> <a href="/">Home</a> </li> 
+         <li> <i class="bi bi-chevron-right"></i> <a href="/about">About us</a> </li> 
+         <li> <i class="bi bi-chevron-right"></i> <a href="/about/#services">Services</a> </li> 
+         <li> <i class="bi bi-chevron-right"></i> <a href="/contact">Contact Us</a> </li> 
+         <li> <i class="bi bi-chevron-right"></i> <a href="/terms">Terms and condition</a> </li> 
+        </ul> 
+       </div> 
+       <div class="col-lg-3 col-md-6 footer-links"> 
+        <h4>Account</h4> 
+        <ul> 
+         <li> <i class="bi bi-chevron-right"></i> <a href="/login">Log in</a> </li> 
+         <li> <i class="bi bi-chevron-right"></i> <a href="/dashboard">Dashboard</a> </li> 
+         <li> <i class="bi bi-chevron-right"></i> <a href="/dashboard/profile">Account</a> </li> 
+         <li> <i class="bi bi-chevron-right"></i> <a href="/dashboard/referral-program">Affiliate</a> </li> 
+         <li> <i class="bi bi-chevron-right"></i> <a href="/password/reset">Forgot Password</a> </li> 
+        </ul> 
+       </div> 
+       <div class="col-lg-3 col-md-6 footer-contact-us"> 
+        <h4>Contact Us</h4> 
+        <p> 521 5th Ave 15th Floor,<br> New York, NY 10175,<br> United States <br><br> <strong>WhatsApp:</strong> +1226-737-2109<br> <strong>Email:</strong> info@capitalmultiply.com<br> </p> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="container"> 
+     <div class="copyright-wrap py-4"> 
+      <div class="copyright text-center">
+        © 2018 - 2022 
+       <b>Capital Multiply</b>. All Rights Reserved 
+      </div> 
+     </div> 
+    </div> 
+   </footer> 
+  </div> 
+  <!-- Vendor JS Files --> 
+  <script src="/assets/vendor/bootstrap.min.js"></script> 
+  <!-- Google Translate --> 
+  <script type="text/javascript">
+        function googleTranslateElementInit() { 
+            new google.translate.TranslateElement(
+                {pageLanguage: 'en'}, 
+                'google_translate_element'
+            ); 
+        } 
+    </script> 
+  <script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit">
+    </script> 
+  <!-- Smartsupp Live Chat script --> 
+  <script type="text/javascript">
+        var _smartsupp = _smartsupp || {};
+    _smartsupp.key = 'b8dc7a4004a221d6889da5275dc2991f3b5a3bd1';
+    window.smartsupp||(function(d) {
+      var s,c,o=smartsupp=function(){ o._.push(arguments)};o._=[];
+      s=d.getElementsByTagName('script')[0];c=d.createElement('script');
+      c.type='text/javascript';c.charset='utf-8';c.async=true;
+      c.src='https://www.smartsuppchat.com/loader.js?';s.parentNode.insertBefore(c,s);
+    })(document);
+    </script> 
+  <!-- Template Main JS File --> 
+  <script src="/assets/js/main.js"></script>  
+ </body>
+</html>
